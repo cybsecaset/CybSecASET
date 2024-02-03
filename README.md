@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development.<br>🌱 I’m currently learning Blockchain.<br>💬 Ask me about my interests.<br>
+Welcome to the official GitHub of the ASET Cybersecurity Club! We are a community of passionate cybersecurity enthusiasts dedicated to exploring, learning, and collaborating on various aspects of cybersecurity.
+
+# Our Mission:
+Our mission is to promote cybersecurity awareness, education, and skill-building among students at the Amity University, Noida. We strive to create a vibrant and inclusive community where members can share knowledge, work on projects, and stay updated with the latest trends and technologies in cybersecurity.
 
 
 ## 🌐 Socials:
