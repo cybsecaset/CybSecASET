@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us:
 Welcome to the official GitHub of the ASET Cybersecurity Club! We are a community of passionate cybersecurity enthusiasts dedicated to exploring, learning, and collaborating on various aspects of cybersecurity.
 
 # 🚀 Our Mission:
